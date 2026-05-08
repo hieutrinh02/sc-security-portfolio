@@ -1,5 +1,5 @@
 # Smart Contract Security Portfolio
-Smart contract security research portfolio by [@hieutrinh02](https://github.com/hieutrinh02).
+Smart contract security portfolio by [@hieutrinh02](https://github.com/hieutrinh02).
 
 This repository showcases my findings from competitive smart contract audit contests.
 
